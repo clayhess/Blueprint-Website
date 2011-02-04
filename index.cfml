@@ -1,6 +1,6 @@
 <!---
 	Template: index.cfml
-	Description: Activant Home Page - Main landing page for website. Customers may or may not visit based upon search engines
+	Description: Activant Home Page - Main landing page for website. Customers may or may not visit based upon search engines, This is a Blueprint css test
 	Date Modified: 2.4.11
 	Updated By: Clay Hess
 --->
