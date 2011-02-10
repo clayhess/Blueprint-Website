@@ -1,7 +1,7 @@
 <!---
 	Template: index.cfml
 	Description: Activant Home Page - Main landing page for website. Customers may or may not visit based upon search engines, This is a Blueprint css test
-	Date Modified: 2.4.11
+	Date Modified: 2.10.11
 	Updated By: Clay Hess
 --->
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
