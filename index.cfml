@@ -63,8 +63,8 @@
 	</script>
 </head>
 
-<body>
-    <div class="container bordertop" style="background-color:#FFF;">
+<body>hello
+    <div class="container showgrid" style="background-color:#FFF; margin-top:5em;">
         <div class="span-24 last" style="background-color: #FFF;">
         	<div class="span-8">
                 <!--- Logo which links to home page --->
